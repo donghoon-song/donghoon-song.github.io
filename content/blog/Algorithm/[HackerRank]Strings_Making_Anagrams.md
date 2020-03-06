@@ -1,5 +1,5 @@
 ---
-title: [HackerRank]Strings: Making Anagrams
+title: '[HackerRank]Strings: Making Anagrams'
 date: 2020-02-19 08:57:00
 category: Algorithm
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: [HackerRank]Strings: Alternating Characters
+title: '[HackerRank]Strings: Alternating Characters'
 date: 2020-02-19 21:17:00
 category: Algorithm
 draft: false
