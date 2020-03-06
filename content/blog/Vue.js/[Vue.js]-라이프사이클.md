@@ -1,5 +1,5 @@
 ---
-title: [Vue.js] 라이프사이클
+title: '[Vue.js] 라이프사이클'
 date: 2020-03-06 10:51:00
 category: Vue.js
 draft: false
