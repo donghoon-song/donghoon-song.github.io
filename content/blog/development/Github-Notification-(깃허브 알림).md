@@ -1,5 +1,5 @@
 ---
-title: '[development] Github Notification (깃허브 알림)'
+title: 'Github Notification (깃허브 알림)'
 date: 2020-04-27 21:32:13
 category: 'development'
 draft: false
