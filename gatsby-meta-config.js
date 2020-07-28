@@ -3,7 +3,7 @@ module.exports = {
   description: `React!`,
   author: `Donghoon Song`,
   introduction: `React!!`,
-  siteUrl: `https://donghoon.netlify.app`, // Your blog site url
+  url: `https://donghoon.netlify.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `Donghoon759`, // Your GitHub account
